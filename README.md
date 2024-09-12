@@ -1,6 +1,6 @@
 # Hope-Ouma
 ## A little bit about me
-:wave: Hello!!!
+Hello!!!
 ##Name
 😁 My name is <Hope>
 
